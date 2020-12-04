@@ -17,12 +17,12 @@
   max-width:400px;
   display:block;
   margin:auto;
-  border-top: 100px;
-  border-bottom: 100px;
+  border-top: 2rem;
+  border-bottom: 2rem;
 }
 
 .head-block{
-  background-color: black;
+  background-color: rgb(22, 9, 138);
   color: rgb(255, 217, 0);
   text-align:center;
   font-style: bold;
@@ -37,7 +37,7 @@
   border: 2px solid black;
   height:20vh;
   width:95%;
-  font-size: medium;
+  font-size: x-large;
   font-family: 'Texturina', serif;
 }
 
@@ -58,12 +58,13 @@ button{
   height:20vh;
   width:95%;
   margin:auto;
-  font-size: medium;
+  text-align: left;
+  font-size: x-large;
   font-family: 'Texturina', serif;
 }
 
 .foot-block{
-  background-color: black;
+  background-color: rgb(22, 9, 138);
   color: rgb(255, 217, 0);
   text-align:center;
   font-style: bold;
